@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ronakshah22@gnu.ac.in](mailto:ronakshah22@gnu.ac.in)
-* 🚀  I'm currently working on [Codehub](http://codehub-production-da03.up.railway.app/)
 * 👥  I'm looking to collaborate on Projects
 
 <p align="left">
